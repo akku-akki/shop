@@ -1,6 +1,30 @@
 # shop
 
-A new Flutter project.
+A Sample Flutter project implementing BLOC with RXDART and CloudFirestore.
+
+this is only for code Samples and has no service.json file.
+
+<img src="images/j1.png.png">
+<img src="images/j10.png.png">
+<img src="images/j11.png.png">
+<img src="images/j12.png.png">
+<img src="images/j2.png.png">
+<img src="images/j3.png.png">
+<img src="images/j5.png.png">
+<img src="images/j6.png.png">
+<img src="images/j7.png.png">
+<img src="images/j8.png.png">
+<img src="images/j9.png.png">
+
+
+
+
+
+
+
+
+
+
 
 ## Getting Started
 
